@@ -8,6 +8,16 @@ License: [MIT](.license.md)
 3. [git comit](./comit.md)
 4. [git config](./config.md)
 5. [git init](./init.md)
+### Работа с удаленным репозиторием:
+6. [git remote add](./remote.md)
+7. [git fetch](./fetch.md)
+8. [git merge](./merge.md)
+9. [git pull](./pull.md)
+10. [git push](./push.md)
+### Работа с файлами
+11. [git rm](./rm.md)
+12. [git mv](./mv.md)
+
 
 
 ---
